@@ -123,7 +123,7 @@ h3{
 
 .producto{
     background-color: var(--primarioOscu);
-    padding: 1rem;
+    padding: 2rem;
 }  
 
 .producto__precio{
